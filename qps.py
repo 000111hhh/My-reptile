@@ -7,7 +7,6 @@ num_threads = 100  # 线程数
 total_requests = 10000  # 总请求数量
 url = 'https://test.com'  # 待测试的网页地址
 
-# 定义请求函数
 count = 0
 
 
