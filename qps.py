@@ -5,7 +5,7 @@ import time
 # 设置线程数和总请求数量
 num_threads = 100  # 线程数
 total_requests = 10000  # 总请求数量
-url = 'https://www.ruanyifeng.com/blog/'  # 待测试的网页地址
+url = 'https://test.com'  # 待测试的网页地址
 
 # 定义请求函数
 count = 0
